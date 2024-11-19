@@ -1,0 +1,17 @@
+/System/Volumes/Data/Storage/C#/3DGraphicsEngine/3d-Graphics-Engine/3DGraphicsEngine/3DGraphicsEngine/obj/Debug/net7.0/3DGraphicsEngine.csproj.AssemblyReference.cache
+/System/Volumes/Data/Storage/C#/3DGraphicsEngine/3d-Graphics-Engine/3DGraphicsEngine/3DGraphicsEngine/obj/Debug/net7.0/3DGraphicsEngine.GeneratedMSBuildEditorConfig.editorconfig
+/System/Volumes/Data/Storage/C#/3DGraphicsEngine/3d-Graphics-Engine/3DGraphicsEngine/3DGraphicsEngine/obj/Debug/net7.0/3DGraphicsEngine.AssemblyInfoInputs.cache
+/System/Volumes/Data/Storage/C#/3DGraphicsEngine/3d-Graphics-Engine/3DGraphicsEngine/3DGraphicsEngine/obj/Debug/net7.0/3DGraphicsEngine.AssemblyInfo.cs
+/System/Volumes/Data/Storage/C#/3DGraphicsEngine/3d-Graphics-Engine/3DGraphicsEngine/3DGraphicsEngine/obj/Debug/net7.0/3DGraphicsEngine.csproj.CoreCompileInputs.cache
+/System/Volumes/Data/Storage/C#/3DGraphicsEngine/3d-Graphics-Engine/3DGraphicsEngine/3DGraphicsEngine/bin/Debug/net7.0/3DGraphicsEngine
+/System/Volumes/Data/Storage/C#/3DGraphicsEngine/3d-Graphics-Engine/3DGraphicsEngine/3DGraphicsEngine/bin/Debug/net7.0/3DGraphicsEngine.deps.json
+/System/Volumes/Data/Storage/C#/3DGraphicsEngine/3d-Graphics-Engine/3DGraphicsEngine/3DGraphicsEngine/bin/Debug/net7.0/3DGraphicsEngine.runtimeconfig.json
+/System/Volumes/Data/Storage/C#/3DGraphicsEngine/3d-Graphics-Engine/3DGraphicsEngine/3DGraphicsEngine/bin/Debug/net7.0/3DGraphicsEngine.dll
+/System/Volumes/Data/Storage/C#/3DGraphicsEngine/3d-Graphics-Engine/3DGraphicsEngine/3DGraphicsEngine/bin/Debug/net7.0/3DGraphicsEngine.pdb
+/System/Volumes/Data/Storage/C#/3DGraphicsEngine/3d-Graphics-Engine/3DGraphicsEngine/3DGraphicsEngine/bin/Debug/net7.0/MathNet.Numerics.dll
+/System/Volumes/Data/Storage/C#/3DGraphicsEngine/3d-Graphics-Engine/3DGraphicsEngine/3DGraphicsEngine/obj/Debug/net7.0/3DGraphicsEngine.csproj.CopyComplete
+/System/Volumes/Data/Storage/C#/3DGraphicsEngine/3d-Graphics-Engine/3DGraphicsEngine/3DGraphicsEngine/obj/Debug/net7.0/3DGraphicsEngine.dll
+/System/Volumes/Data/Storage/C#/3DGraphicsEngine/3d-Graphics-Engine/3DGraphicsEngine/3DGraphicsEngine/obj/Debug/net7.0/refint/3DGraphicsEngine.dll
+/System/Volumes/Data/Storage/C#/3DGraphicsEngine/3d-Graphics-Engine/3DGraphicsEngine/3DGraphicsEngine/obj/Debug/net7.0/3DGraphicsEngine.pdb
+/System/Volumes/Data/Storage/C#/3DGraphicsEngine/3d-Graphics-Engine/3DGraphicsEngine/3DGraphicsEngine/obj/Debug/net7.0/3DGraphicsEngine.genruntimeconfig.cache
+/System/Volumes/Data/Storage/C#/3DGraphicsEngine/3d-Graphics-Engine/3DGraphicsEngine/3DGraphicsEngine/obj/Debug/net7.0/ref/3DGraphicsEngine.dll

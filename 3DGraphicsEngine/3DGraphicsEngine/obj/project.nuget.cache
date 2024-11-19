@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "dgfTupPHenDaGUCsb6/eKzAlChwf867fmpoRdrBvsYQvMykjb992Un3GyyRfhzjV/TgESwpvpRM1MeFSn/pPUg==",
+  "dgSpecHash": "XXyYhqyfO1abWuLH+yNZZas19i6QphCQotSk95Jfg5v62xdLr8isGehiy4MuV1fXtVmx77AzuqNOn2CqnFFH1w==",
   "success": true,
   "projectFilePath": "/System/Volumes/Data/Storage/C#/3DGraphicsEngine/3d-Graphics-Engine/3DGraphicsEngine/3DGraphicsEngine/3DGraphicsEngine.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/samuelgolladay/.nuget/packages/mathnet.numerics/5.0.0/mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
