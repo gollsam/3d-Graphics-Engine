@@ -3,8 +3,8 @@ using MathNet.Numerics.LinearAlgebra.Double;
 using System.Collections;
 using System.Collections.Generic;
 
-float a = 1.9f;
-float b = 1.05f;
+float a = 2.1f;
+float b = 1;
 
 Matrix<double> vOrtho = DenseMatrix.OfArray(new double[,]
 {
@@ -35,8 +35,8 @@ Matrix<double> B = DenseMatrix.OfArray(new double[,]
 
 Matrix<double> T = DenseMatrix.OfArray(new double[,]
 {
-    {1,0,0 },
-    {0,1,0 }
+    {0,1,0 },
+    {1,0,0 }
 });
 
 Matrix<double> projFinal = T * B.Inverse() * projA;
